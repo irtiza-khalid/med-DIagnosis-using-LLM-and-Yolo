@@ -18,8 +18,8 @@ if "responses" not in st.session_state:
     st.session_state.responses = {}
 
 # Load the trained YOLOv8 model
-model = YOLO('/best.pt')
-modelmri = YOLO('/bestMRI.pt')
+model = YOLO('best.pt')
+modelmri = YOLO('bestMRI.pt')
 
 
 
