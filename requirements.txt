@@ -1,7 +1,6 @@
 pydicom
 streamlit
 pylibjpeg
-libgl1
 pylibjpeg-libjpeg
 gdcm
 pyngrok
