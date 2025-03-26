@@ -2,7 +2,6 @@ pydicom
 streamlit
 pylibjpeg
 pylibjpeg-libjpeg
-opencv-python-headless
 gdcm
 pyngrok
 phidata
@@ -10,5 +9,5 @@ Pillow
 duckduckgo-search
 google-generativeai
 langchain_google_genai
+opencv-python-headless
 ultralytics
-
