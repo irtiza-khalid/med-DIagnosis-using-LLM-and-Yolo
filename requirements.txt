@@ -1,5 +1,7 @@
 pydicom
 streamlit
+pylibjpeg
+pylibjpeg-libjpeg
 gdcm
 pyngrok
 phidata
