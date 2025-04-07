@@ -5,7 +5,6 @@ pylibjpeg-libjpeg
 opencv-python-headless
 gdcm
 pyngrok
-libgl1
 phidata
 Pillow
 duckduckgo-search
