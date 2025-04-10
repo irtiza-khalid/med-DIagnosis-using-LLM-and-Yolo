@@ -113,7 +113,7 @@ def analyze_image(image_path,analysis):
     image_data = encode_image(image_path)
     genai.configure(api_key="AIzaSyBe5hCcwzCBrR1yeMMxh5ElHhvYPaqbLTQ")
 
-    model = genai.GenerativeModel("gemini-2.0-flash", generation_config={"temperature": 0.7})
+    model = genai.GenerativeModel("gemini-2.5-pro-preview-03-25", generation_config={"temperature": 0.7})
 
     analysis_prompt = f"""
        Analyze the provided DICOM image and identify any abnormalities. For each detected region, provide a JSON object with:
